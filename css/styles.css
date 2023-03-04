@@ -1,0 +1,156 @@
+body{
+    
+    text-align: center;
+    font-family: 'merriweather',serif ;
+
+}
+
+.top-contianer{
+    background-color:  #EAF6F6;
+}
+
+.bottom-container{
+   
+}
+
+h1{
+    font-family: 'sacramento',cursive;
+    margin-top: 50px;
+    font-size: 70PX;
+    color:  #66BFBF;
+}
+h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font: size 2.5rem;
+    color:   #66BFBF;
+}
+h3{
+    color:  #66BFBF ;
+}
+
+hr{
+    width: 25px;
+    border: dotted;
+    border-bottom: none;
+    margin: 50px auto 50px auto;
+    color:#EAF6F6  ;
+}
+
+
+.zach{
+    text-decoration: underline;
+}
+
+
+.bottom-cloud{
+    position: absolute;
+    left:250px ;
+    bottom: ;
+}
+
+
+.top-cloud{
+    position: absolute;
+    right:100px ;
+    top: ;
+}
+
+
+
+.skill-row {
+    margin:100px auto 100px auto;
+    text-align: left;
+    line-height:2 ;
+}
+
+
+.chillies {
+    width: 100px;
+    float: left;
+    margin-right: 30PX;
+}
+
+
+.chillie {
+    width: 100px;
+    float:left;
+    margin-right: 30px;
+}
+
+
+.para{
+    color: #40514E;
+}
+
+
+.bottom-container{
+    background-color: #66BFBF ;
+    margin-top: 50px;
+
+}
+
+a{ 
+    color:#11999E ;
+    font-family :  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin:10px 20px ;
+    text-decoration: none;
+}
+a:hover{
+    color: #EAF6F6;
+
+}
+
+
+.ZII{
+    color:#EAF6F6 ;
+    font-size: 0.75rem;
+    padding: 50px 0 
+}
+
+
+.profile{
+    margin: 50px 0;
+}
+
+.paraa{
+    width: 40%;
+    margin: 40px auto 60px
+
+}
+
+
+
+.btn {
+    background: #11ddc4;
+    background-image: -webkit-linear-gradient(top, #11ddc4, #1199e);
+    background-image: -moz-linear-gradient(top, #11ddc4, #1199e);
+    background-image: -ms-linear-gradient(top, #11ddc4, #1199e);
+    background-image: -o-linear-gradient(top, #11ddc4, #1199e);
+    background-image: linear-gradient(to bottom, #11ddc4, #1199e);
+    -webkit-border-radius: 14;
+    -moz-border-radius: 14;
+    border-radius: 14px;
+    font-family :  Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    border: solid #11cdd4 2px;
+    text-decoration: none;
+
+
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .footer-link{
+    margin:50px 20px;
+
+  }
